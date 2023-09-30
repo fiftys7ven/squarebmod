@@ -26,5 +26,3 @@ To Make Your Own Level Read Rules And How.
 7. Upload Your File To Google Drive And Make It Public.
 8. Open This [Form](https://forms.gle/1kXGwSZjYdTjKA2w5) And Paste Your Public Drive Link.
 9. Wait For Moderator Review. Your Level Will Be Added Soon.
-### Disclaimer
-The Option Wasn't Added To Game Yet. But You Can Upload Now.
